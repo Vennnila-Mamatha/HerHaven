@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": "6ef1",
+      "fullName": "mamatha",
+      "username": "mamatha",
+      "email": "mamatha@gmailcom",
+      "password": "123",
+      "confirmPassword": "123",
+      "profilePicture": null,
+      "bio": "",
+      "location": "hyderbad",
+      "dob": "",
+      "interests": [
+        "Career Development"
+      ],
+      "role": "",
+      "phoneNumber": "",
+      "agreeTerms": true,
+      "displayName": "vennila"
+    },
+    {
+      "id": "471b",
+      "fullName": "mamatha",
+      "username": "mamatha",
+      "email": "mamathavennila@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "profilePicture": {},
+      "bio": "i am a student",
+      "location": "india",
+      "dob": "2025-04-01",
+      "interests": [
+        "Entrepreneurship"
+      ],
+      "role": "General Member",
+      "phoneNumber": "",
+      "agreeTerms": true
+    }
+  ],
+  "posts": [
+    {
+      "id": "7614",
+      "content": "asdfg",
+      "tags": "qwe"
+    },
+    {
+      "id": "d842",
+      "content": "new post",
+      "tags": "mindset"
+    }
+  ]
+}
